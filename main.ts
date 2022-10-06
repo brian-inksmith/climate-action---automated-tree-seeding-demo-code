@@ -16,7 +16,7 @@ input.onButtonPressed(Button.AB, function () {
     seedsDropped = 0
     basic.showNumber(seedsDropped)
 })
-// clears display
+// clears the display
 input.onButtonPressed(Button.B, function () {
     basic.clearScreen()
 })
